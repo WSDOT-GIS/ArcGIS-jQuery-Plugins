@@ -9,7 +9,7 @@
     "use strict";
     $.widget("ui.extentSelect", {
         options: {
-            apiUrl: "http://serverapi.arcgisonline.com/jsapi/arcgis/?v=2.5compact",
+            apiUrl: "http://serverapi.arcgisonline.com/jsapi/arcgis/?v=2.7compact",
             // The URL for the query that returns geometries.  These geometries' extents will be used by this control.
             // For more details see http://help.arcgis.com/en/arcgisserver/10.0/apis/rest/index.html?query.html.
             localStorageKey: "extents",
