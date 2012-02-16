@@ -122,7 +122,6 @@
             var self = this, layerUpdateStart, layerUpdateEnd;
 
             layerUpdateStart = function () {
-                console.debug(self._progressBar);
                 if (self._progressBar !== null) {
                     self._progressBar.show();
                 }
