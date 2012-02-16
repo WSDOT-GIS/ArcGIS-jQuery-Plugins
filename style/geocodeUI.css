@@ -1,0 +1,13 @@
+﻿.ui-widget-geocode
+{
+    border: 1px solid black;
+}
+.ui-widget-geocode .ui-widget-geocode-controls > div > span 
+{
+    display: block;
+    padding: 2px 10px;
+}
+.ui-widget-geocode .ui-widget-geocode-intersection-controls > div > span > input 
+{
+    width: 100%;
+}
