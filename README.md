@@ -30,3 +30,7 @@ This widget allows the user to select from a list of predefined extents.  When a
 ### htmlPopupExtensions.js ###
 
 This file adds additional capabilities to several of the dojo classes defined in the ArcGIS API for JavaScript.  These capabilities are used to provide the ability for the user to click on the map and show HTML popups for features in that location.
+
+## Resources ##
+
+* [jquery-bbq plugin] (http://github.com/cowboy/jquery-bbq/)
