@@ -1,5 +1,7 @@
 # ArcGIS jQuery Plugins #
 
+:warning: **Note: This project is no longer active and should be considered abandoned.** :warning: 
+
 This project contains jQuery plugins designed for use with the [ArcGIS API for JavaScript] (http://help.arcgis.com/en/webapi/javascript/arcgis/index.html).
 
 ## Prerequisites ##
